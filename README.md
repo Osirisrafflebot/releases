@@ -1,1 +1,1 @@
-# releases-new
+# Osiris Raffle Bot Releases
